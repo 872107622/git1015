@@ -5,5 +5,6 @@ public class Good {
 	//diyicixiugai
 	
 	//这是hotfix
-	//真的啊
+	//真的啊	
+	//这是修改过后的
 }
