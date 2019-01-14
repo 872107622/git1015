@@ -5,4 +5,5 @@ public class Good {
 	//diyicixiugai
 	
 	//这是hotfix
+	//真的啊
 }
